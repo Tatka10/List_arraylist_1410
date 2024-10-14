@@ -9,7 +9,7 @@ public class Exc4 {
     }
 
     public static void getNUms(ArrayList arr) {
-        for (int i = 0; i < 7; i++) {
+        for (int i = 0; i < 8; i++) {
             arr.add(i, i);
         }
         System.out.println(arr);
