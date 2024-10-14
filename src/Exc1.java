@@ -19,6 +19,6 @@ public class Exc1 {
         System.out.println(arr);
         System.out.println(arr.get(2)); // получение элемента по индексу
         Collections.sort(arr);
-        System.out.println(arr);
+        System.out.println(arr); //сортировка
     }
 }
