@@ -7,7 +7,7 @@ public class Dog implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("Пес "+name+ " носится как угорелый");
+        System.out.printf("Пес %s носится как угорелый",name);
 
     }
 }
